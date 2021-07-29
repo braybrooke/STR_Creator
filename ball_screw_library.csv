@@ -1,0 +1,5 @@
+﻿Name,Outer Diameter,Pitch,Ball Diameter,Effective Turns,Ca,Co,D Nut,L Nut,Stiffness,Efficiency
+RSIC3206,15,2,1,4,2900,3500,20,,,0.86
+FSIC2806,28,6,3.969,4,15000,20000,40,,,0.86
+RSIC2806,28,10,6.35,4,25000,30000,40,,,0.86
+RSIC3206,32,6,3.969,4,2900,3500,45,,,0.86
